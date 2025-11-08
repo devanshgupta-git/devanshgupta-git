@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Gupta</h1>
-<h3 align="center">Frontend & Backend Developer | Designer | BMU 27</h3>
+<h3 align="center">Machine Learning & Artificial Intelligence Developer | Designer | BMU 27</h3>
 
 - 🌱 I’m currently learning *Android Development*
 
