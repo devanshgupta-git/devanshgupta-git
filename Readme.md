@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=devanshgupta-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta-git&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devanshgupta-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📈 Contribution Graph
 ![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta-git&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
 
