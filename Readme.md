@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devanshgupta-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 📈 Contribution Graph
+![Devansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta-git&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=devanshgupta-git&icon=2&color=0)](https://visitcount.itsvg.in)
 
