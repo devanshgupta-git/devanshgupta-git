@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Full+Stack+Developer;Building+AI+Powered+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7B61FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Computer+Vision+Developer;Full+Stack+Developer;Building+AI+Powered+Projects" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshgupta-git&label=Profile%20Views&color=3B82F6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=devanshgupta-git&label=Profile%20Views&color=7B61FF&style=flat-square"/>
 </p>
 
 ---
