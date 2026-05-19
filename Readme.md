@@ -52,11 +52,11 @@ Building intelligent systems and real-world products through AI and software.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshgupta-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devanshgupta11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta-git&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshgupta11&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=devanshgupta-git&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=devanshgupta11&theme=tokyonight"/>
 
 </div>
 
@@ -65,7 +65,7 @@ Building intelligent systems and real-world products through AI and software.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta-git&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshgupta11&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
